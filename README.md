@@ -49,4 +49,4 @@
 ## Website
 [All Of Us Are Dead](https://watch.plex.tv/show/all-of-us-are-dead)
 
-![alt text](https://www.instagram.com/p/DPJ9W98iJQu/)
+![alt text](https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p21368434_b_v8_ab.jpg)
