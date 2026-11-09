@@ -66,15 +66,4 @@
 
 ---
 
-## Fenced Code Block
-
-```
-{
-  "Name": "Lee Cheong-san",
-  "age": 25
-}
-```
-
-
-
 
