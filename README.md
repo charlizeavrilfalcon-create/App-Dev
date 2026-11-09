@@ -50,3 +50,31 @@
 [All Of Us Are Dead](https://watch.plex.tv/show/all-of-us-are-dead)
 
 ![alt text](https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p21368434_b_v8_ab.jpg)
+
+---
+
+## Table
+
+| Category | Information |
+| -------- | ----------- |
+| Title | All of Us Are Dead |
+| Genre | Horror, Thriller, Action, Drama, Survival |
+| Country | South Korea |
+| Platform | Netflix |
+| Release Date | January 28, 2022 |
+| Episodes | 12 |
+
+---
+
+## Fenced Code Block
+
+```
+{
+  "Name": "Lee Cheong-san",
+  "age": 25
+}
+```
+
+
+
+
