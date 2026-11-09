@@ -48,4 +48,5 @@
 
 ## Website
 [All Of Us Are Dead](https://watch.plex.tv/show/all-of-us-are-dead)
-![alt text](https://thekrazemag.com/latest-updates/2022/2/5/all-of-us-are-dead-the-good-the-bad-and-the-wtf)
+
+![alt text](https://www.instagram.com/p/DPJ9W98iJQu/)
