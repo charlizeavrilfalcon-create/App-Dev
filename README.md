@@ -49,8 +49,7 @@
 ## Website
 [All Of Us Are Dead](https://watch.plex.tv/show/all-of-us-are-dead)
 
-![alt text](https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p21368434_b_v8_ab.jpg)
-
+![alt text](https://hallyureviews.wordpress.com/wp-content/uploads/2022/01/all-of-us-are-dead.png)
 ---
 
 ## Table
